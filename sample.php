@@ -1,1 +1,2 @@
-Tjis is test case/bin/bash: wq: command not found
+This is my contents only in test, not in master
+Also i add new line
